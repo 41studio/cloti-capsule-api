@@ -28,6 +28,9 @@
     "type": "",
     "url": ""
   },
+  "engines": {
+    "node": "5.10"
+  },
   "license": "UNLICENSED",
   "description": "cloticapsule"
 }
