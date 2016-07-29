@@ -4,6 +4,7 @@
   },
   "loopback-component-remote-ctx": {
     "enabled": true,
-    "argName": "remoteCtx"
+    "argName": "remoteCtx",
+    "blackList": ["User.login", "User.logout", "User.confirm", "User.resetPassword"]
   }
 }
