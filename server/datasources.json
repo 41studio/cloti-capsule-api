@@ -4,12 +4,8 @@
     "connector": "memory"
   },
   "mongo": {
-    "host": "188.166.246.213",
-    "port": 27017,
-    "database": "cloticapsule-dev",
-    "password": "",
+    "url": "mongodb://heroku_nmlrgq5s:ujr2gu9deq1ljotsgrm5vm435j@ds033015.mlab.com:33015/heroku_nmlrgq5s",
     "name": "mongo",
-    "user": "",
     "connector": "mongodb"
   }
 }
