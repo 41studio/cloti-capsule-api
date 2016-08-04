@@ -6,6 +6,9 @@
   "options": {
     "validateUpsert": true
   },
+  "hidden": [
+    "authorId"
+  ],
   "properties": {
     "title": {
       "type": "string",
